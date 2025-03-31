@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!"); // first commit test
+    println!("Hello, beautiful world!"); // second commit test
 }
